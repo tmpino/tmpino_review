@@ -1,1 +1,1 @@
-package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+/**  File:	  Author:	  Date:	    Description:**//**  Class:	    Description:*//**  Method:  Inputs:  Returns:  Description:*/package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
